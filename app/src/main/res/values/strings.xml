@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">A7S212021PRAC_2</string>
+    <string name="Bienvenido">Bienvenido a mi aplicacion</string>
+    <string name="Mensaje">Estas en mi aplicacion</string>
+    <string name="Descripcion">AndroidRobot</string>
+    <string name="Digita1">Digita un numero</string>
+    <string name="Digita">Digita un numero</string>
+    <string name="Opciones">Estas en la opcion suma</string>
+    <string name="Opcion1">Digita un numero</string>
+    <string name="Opcion2">"Dgita otro numero "</string>
+    <string name="Resultado">Consulta el resultado</string>
+    <string name="Opcion">"Selecciona una opcion "</string>
+    <string name="Suma">Sumar</string>
+    <string name="Resta">Restar</string>
+    <string name="Multiplicacion">Multiplicar</string>
+    <string name="Division">Dividir</string>
+    <string name="Cuadrado">Elevar al cuadrado</string>
+    <string name="Sumanumero">Suma de dos numeros</string>
+    <string name="Calcular">Calcula la operacion</string>
+    <string name="Respuesta" />
+    <string name="Multiplicacion1">Estas en la opcion mjultiplicar</string>
+    <string name="Estasenrestar">Opcion de Restar</string>
+    <string name="Etiquetasumar1">Ingresa el numero a sumar</string>
+    <string name="etiquetasumar2">digita otro numero a sumar</string>
+    <string name="sumaresultado" />
+    <string name="etiqueta">numero 1</string>
+    <string name="etiquetarestar">ingresa el primer valor</string>
+    <string name="etiquetaresta1">ingresa el segundo valor</string>
+    <string name="name">Name</string>
+    <string name="etiquetaresultado">"El resultado es : "</string>
+</resources>
